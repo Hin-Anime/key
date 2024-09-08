@@ -4,7 +4,7 @@
   
     const body = {
       type: 'login',
-      key: KEYAUTH-DhDsao-6ypvzH-Mktxwj-OMnkHv-fBrf6H-qOYveG,
+      key: KEYAUTH-DFFDFSFSFSDFSFSDF,
       ownerid: 'AQy6nxcoDL',
       app: 'Panel',
       secret: '606ac307e802354e7bef2b301b24690e65937e217f1d26d68aa20d57c748bc01'
